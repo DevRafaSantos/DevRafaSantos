@@ -1,16 +1,29 @@
-## Hi there 👋
+## Oi, meu nome é Rafael 👋
+Desenvolvedor Android nativo com Kotlin.
 
-<!--
-**DevRafaSantos/DevRafaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Um pouco sobre mim**
 
-Here are some ideas to get you started:
+- 📱 **Desenvolvedor** Android nativo com Kotlin
+- 📝 Apaixonado por estudar programação
+- 🖥️ Atualmente mais focado em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div display="inline">
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+  </div>
+          
+##
+
+## Você também me encontra em:
+<a href="https://www.linkedin.com/in/rafael-santos-b856412b3/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+
+  
+
+          
+          
+
+
