@@ -3,12 +3,44 @@ Desenvolvedor Android nativo com Kotlin.
 
 **Um pouco sobre mim**
   <div>
-- Sou Rafael Santos, um desenvolvedor Android apaixonado por criar aplicações móveis inovadoras e funcionais. Estou iniciando na área de desenvolvimento Android e estou em busca de uma oportunidade de estágio ou junior. Por estar iniciando estou desenvolvendo minhas Hard Skills, por outro lado, possuo mais de 10 anos de experiência em outras áreas, o que me faz ter boas Soft Skills como: Comunicação eficaz | Trabalho em equipe e colaboração| Resolução de problemas e pensamento crítico | Liderança e gestão de tempo | Adaptabilidade e resiliência.
+- Sou Rafael Santos, um desenvolvedor Android apaixonado por criar aplicações móveis inovadoras e funcionais. Estou iniciando na área de desenvolvimento Android e estou em busca de uma oportunidade de estágio ou junior. Por estar iniciando estou desenvolvendo minhas Hard Skills, por outro lado, possuo mais de 10 anos de experiência em outras áreas, o que me faz ter boas Soft Skills.
     
   </div>
+
+##
+
+<div>
   
-- 📱 **Desenvolvedor** Android nativo com Kotlin
-- 📝 Apaixonado por estudar programação
+  ⚙️Hard skills:
+  - Kotlin;
+  - Android nativo;
+  - MVVM;
+  - Coroutines;
+  - Jetpack Compose;
+  - REST API (Retrofit/ Ktor);
+  - ROOM Database;
+  - Firebase;
+  - Git/Github;
+  - Testes Unitários; 
+  - Scrum;
+  - Clean Code.
+    
+🎯 Soft Skills:
+  - Comunicação eficaz;
+  - Gestão do tempo
+  - Resolução de problemas;
+  - Gestão de projetos;
+  - Pesquisa;
+  - Proatividade;
+  - Autonomia;
+  - Identificar, ler e corrigir bugs;
+  - Trabalho em equipe;
+  - Aprendizado contínuo.
+     
+</div>
+
+##
+
 - 🖥️ Atualmente mais focado em:
   
 
