@@ -48,16 +48,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div> 
-  <p align="center">
-  <a href="https://github.com/DevRafaSantos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevRafaSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </a>
-    <a href="https://github.com/DevRafaSantos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevRafaSantos&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
-  </a>
-  </p>
-</div>
+<p align="center">
+<a href="https://github.com/DevRafaSantos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevRafaSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevRafaSantos&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+DevRafaSantos
 
 ##
 
