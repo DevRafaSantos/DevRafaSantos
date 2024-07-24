@@ -11,7 +11,7 @@
 <h2> Um pouco sobre mim </h2>
   
   <div>
-    Sou um desenvolvedor Android apaixonado por criar aplicações móveis inovadoras e funcionais. Estou iniciando na área de desenvolvimento Android e estou em busca de uma oportunidade de estágio ou junior. Por estar iniciando estou desenvolvendo minhas Hard Skills, por outro lado, possuo mais de 10 anos de experiência em outras áreas, o que me faz ter boas Soft Skills.
+    Sou um desenvolvedor Android apaixonado por criar aplicações móveis inovadoras e funcionais. Embora esteja no início da minha carreira em desenvolvimento Android, estou em transição de carreira e em busca de uma oportunidade como estagiário ou desenvolvedor júnior. Tenho me dedicado ao aprimoramento das minhas hard skills, enquanto minha experiência de mais de 10 anos em outras áreas me proporciona sólidas soft skills. Estou pronto para contribuir com minha determinação e habilidades para o sucesso da sua equipe.
   </div>
 
 ##
