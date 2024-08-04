@@ -68,6 +68,11 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
 </a>
 
+<a href="mailto:rsantos.andrade@outlook.com?subject=Convite%20para%20entrevista&body=Olá,%20Rafael,%20gostei%20do%20seu%20perfil,%20podemos%20marcar%20uma%20conversa?">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> 
+</a>
+
+
 </div>
 
 
