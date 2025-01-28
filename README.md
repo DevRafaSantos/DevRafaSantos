@@ -1,17 +1,13 @@
 <h1 align="center">Hello, world! 👋 I'm Rafael Santos 👨‍💻	 </h1> 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
-</p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=435&height=60&lines=Mobile+Developer;Android+%7C+Kotlin" alt="Typing SVG" /></a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=1F20B8&width=435&lines=Cybersecurity)](https://git.io/typing-svg)
 
 <h2> Um pouco sobre mim </h2>
   
   <div>
-    Sou um apaixonado pela área de tecnologia, atualmente estou estudando desenvolvimento Android com Kotlin. Tenho me dedicado ao aprimoramento das minhas hard skills, enquanto minha experiência de mais de 10 anos em outras áreas me proporciona sólidas soft skills. Estou pronto para contribuir com minha determinação e habilidades para o sucesso da sua equipe.
+    Sou um apaixonado pela área de tecnologia, atualmente estou estudando Cibersegurança. Também estudei desenvolvimento Android com Kotlin. Tenho me dedicado ao aprimoramento das minhas hard skills, enquanto minha experiência de mais de 10 anos em outras áreas me proporciona sólidas soft skills. Estou pronto para contribuir com minha determinação e habilidades para o sucesso da sua equipe.
   </div>
 
 ##
@@ -20,6 +16,7 @@
    <h2>&nbsp;🛠 Tech Stack</h2>
 
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+  ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
