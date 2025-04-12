@@ -1,29 +1,32 @@
-<h1 align="center">Hello, world! 👋 I'm Rafael Santos 👨‍💻	 </h1> 
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2D5374&text=&fontAlign=50&fontSize=70&descAlign=70&section=header"/>
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=1F20B8&width=435&lines=Cybersecurity)](https://git.io/typing-svg)
-
-<h2> Um pouco sobre mim </h2>
+---
+<div align="center">
   
-  <div>
-    Sou um apaixonado pela área de tecnologia, atualmente estou estudando Cibersegurança. Também estudei desenvolvimento Android com Kotlin. Tenho me dedicado ao aprimoramento das minhas hard skills, enquanto minha experiência de mais de 10 anos em outras áreas me proporciona sólidas soft skills. Estou pronto para contribuir com minha determinação e habilidades para o sucesso da sua equipe.
-  </div>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rafael Santos 👨‍💻
 
-##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=1F20B8&width=435&lines=Dev_Full_Stack)](https://git.io/typing-svg)
 
-<div>
-   <h2>&nbsp;🛠 Tech Stack</h2>
+ 👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
+ ⚡ Formado em Ciências Contábeis<br>
+ 👩‍🎓 MBA em Gestão Empresarial pela UNIFAVIP Wyden<br>
+ 👩‍🎓 Pós graduado em Gestão Empresarial pela Faculdade Metropolitana de SP<br>
+</div>
 
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-  ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
+  <a href="https://github.com/DevRafaSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafaSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+
+   <!-- Distintivos de Linguagens e Habilidades -->
+<h2>⚙️ Hard Skills:</h2>
+<div style="display: inline_block" align="center"><br>
 
 </div>
+ <br>
 
 <div>
   
@@ -42,41 +45,38 @@
     
 </div>
 
-##
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/DevRafaSantos">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevRafaSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevRafaSantos&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-##
-
-## Você também me encontra em:
-<div> 
-<a href="https://www.linkedin.com/in/rafael-santos-b856412b3/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>
-
-<a href="https://www.instagram.com/rafael.santos.a/?next=%2F">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
-</a>
-
-<a href="mailto:rsantos.andrade@outlook.com?subject=Convite%20para%20entrevista&body=Olá,%20Rafael,%20gostei%20do%20seu%20perfil,%20podemos%20marcar%20uma%20conversa?">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> 
-</a>
-
-
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevRafaSantos}/count.svg" /></p> 
+  <br>
 </div>
 
 
-
+## Você também me encontra em:
+<div align="center"> 
+  <a href="https://www.instagram.com/rafael.santos.a/?next=%2F">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
+</a>
+  <a href="mailto:rsantos.andrade@outlook.com?subject=Convite%20para%20entrevista&body=Olá,%20Rafael,%20gostei%20do%20seu%20perfil,%20podemos%20marcar%20uma%20conversa?">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> 
+</a>
+  <a href="https://www.linkedin.com/in/devrafasantos/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
   
+</div>
 
-          
-          
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2D5374&text=&fontAlign=50&fontSize=70&descAlign=70&section=header"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
