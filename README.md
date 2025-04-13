@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2D5374&text=&fontAlign=50&fontSize=70&descAlign=70&section=header"/>
 
 ---
-<div align="center">
+<div>
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rafael Santos 👨‍💻
 
@@ -14,16 +14,56 @@
  👩‍🎓 Pós graduado em Gestão Empresarial pela Faculdade Metropolitana de SP<br>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/DevRafaSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafaSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false"/> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafaSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaSantos&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+
+<!-- Animação da cobrinha -->
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake.svg">
+</picture>
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <h2>⚙️ Hard Skills:</h2>
 <div style="display: inline_block" align="center"><br>
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+
+          
+
+          
+          
 
 </div>
  <br>
@@ -44,14 +84,6 @@
   - Aprendizado contínuo.
     
 </div>
-
-<!-- Animação da cobrinha -->
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 <!-- Contador de Visitantes -->
 <div align="center">
