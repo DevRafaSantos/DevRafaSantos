@@ -14,6 +14,7 @@
  👩‍🎓 Pós graduado em Gestão Empresarial pela Faculdade Metropolitana de SP<br>
 </div>
 
+## 📊 Estatísticas do GitHub
 <div>
   <a href="https://github.com/DevRafaSantos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafaSantos&count_private=true&show_icons=true&theme=dark&cache_seconds=0"/> <br>
@@ -28,6 +29,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 🧩 Repositórios em destaque
+- 📱 [App Calculadora de IMC em Kotlin](https://github.com/DevRafaSantos/calculadoraimc) – Projeto elaborado em `Kotlin` utilizando a lógica de cálculo e classificação de IMC.
+- 📱 [App Calculadora de Gorjeta com Kotlin](https://github.com/DevRafaSantos/CalculadoraGorjeta) – Projeto Android com interface intuitiva e funcionalidades práticas.
+- 📱 [App Calculador de valor de combustível](https://github.com/DevRafaSantos/FuelCalculator) – Projeto elaborado em `Kotlin`. Coleta dos inputs do usuário, cada input numa tela, e no final é mostrado o valor que será gasto em combustível.
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <h2>⚙️ Hard Skills:</h2>
@@ -45,26 +51,6 @@
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
-
-          
-          
-          
-          
-          
-          
-          
-          
-          
-
-          
-
-          
-
-          
-
-          
-          
 
 </div>
  <br>
