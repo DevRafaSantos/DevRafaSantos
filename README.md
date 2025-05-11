@@ -16,8 +16,9 @@
 
 <div>
   <a href="https://github.com/DevRafaSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafaSantos&count_private=true&show_icons=true&theme=dark"/> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaSantos&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafaSantos&count_private=true&show_icons=true&theme=dark&cache_seconds=0"/> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaSantos&layout=compact&langs_count=16&theme=dark&cache_seconds=0"/>
+  </a>
 </div>
 
 
