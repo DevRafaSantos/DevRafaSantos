@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=1F20B8&width=435&lines=Backend_Java)](https://git.io/typing-svg)
 
- 👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
+ 👩🏻‍💻 Sou um desenvolvedor Backend em Java, criativo e apaixonado por tecnologia.<br>
  ⚡ Formado em Ciências Contábeis<br>
  👩‍🎓 MBA em Gestão Empresarial pela UNIFAVIP Wyden<br>
  👩‍🎓 Pós graduado em Gestão Empresarial pela Faculdade Metropolitana de SP<br>
