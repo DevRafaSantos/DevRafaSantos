@@ -11,7 +11,7 @@
  👩🏻‍💻 Sou um desenvolvedor Backend em Java, criativo e apaixonado por tecnologia.<br>
  ⚡ Formado em Ciências Contábeis<br>
  👩‍🎓 MBA em Gestão Empresarial pela UNIFAVIP Wyden<br>
- 👩‍🎓 Pós graduado em Gestão Empresarial pela Faculdade Metropolitana de SP<br>
+ 👩‍🎓 Pós graduado em Cibersegurança pela Faculdade Metropolitana de SP<br>
 </div>
 
 ## 📊 Estatísticas do GitHub
