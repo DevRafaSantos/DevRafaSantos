@@ -8,10 +8,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=1F20B8&width=435&lines=Backend_Java☕)](https://git.io/typing-svg)
 
- 👩🏻‍💻 Sou um desenvolvedor Backend em Java, criativo e apaixonado por tecnologia.<br>
- ⚡ Formado em Ciências Contábeis pela Autarquia Educacional do Belo Jardim-PE<br>
- 👩‍🎓 MBA em Gestão Empresarial pela UNIFAVIP Wyden<br>
- 👩‍🎓 Pós graduado em Cibersegurança pela Faculdade Metropolitana de SP<br>
+ 
+ 🎓 Graduando em Engenharia de Software na ESTÁCIO<br>
+ 📚 Estudando Backend em Java.<br>
+ 🎓 Pós graduado em Cibersegurança pela Faculdade Metropolitana de SP<br>
+ 🎓 MBA em Gestão Empresarial pela UNIFAVIP Wyden<br>
+ 🎓 Formado em Ciências Contábeis pela Autarquia Educacional do Belo Jardim-PE<br>
+
 </div>
 
 ## 📊 Estatísticas do GitHub
@@ -27,6 +30,7 @@
 <picture align="center" >
   <img src="https://raw.githubusercontent.com/DevRafaSantos/DevRafaSantos/output/snake.svg" alt="Snake animation" />
 </picture>
+
 
 ## 🧩 Repositórios em destaque
 - 📱 [App Calculadora de IMC em Kotlin](https://github.com/DevRafaSantos/calculadoraimc) – Projeto elaborado em `Kotlin` utilizando a lógica de cálculo e classificação de IMC.
