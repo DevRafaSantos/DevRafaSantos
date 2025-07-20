@@ -71,8 +71,11 @@
 
 <!-- Contador de Visitantes -->
 <div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevRafaSantos}/count.svg" /></p> 
+   
+  <p align="center"></p> 
+   <br><p align="center"><b>Quantidade de visitantes</b></p>
+
+  ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=DevRafaSantos.DevRafaSantos)
   <br>
 </div>
 
