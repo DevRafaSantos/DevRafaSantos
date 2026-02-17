@@ -9,11 +9,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=1F20B8&width=435&lines=Backend_Java☕)](https://git.io/typing-svg)
 
  
- 🎓 Graduando em Engenharia de Software na ESTÁCIO<br>
- 📚 Estudando Backend em Java.<br>
- 🎓 Pós graduado em Cibersegurança pela Faculdade Metropolitana de SP<br>
- 🎓 MBA em Gestão Empresarial pela UNIFAVIP Wyden<br>
- 🎓 Formado em Ciências Contábeis pela Autarquia Educacional do Belo Jardim-PE<br>
+Backend Developer focused on Java and Spring Boot, building RESTful APIs with PostgreSQL and MongoDB.
+
+Before transitioning to tech, I spent over 12 years in Accounting, Internal Audit, and Financial Control — working directly with CFOs and executive teams. This background gives me a unique advantage: I don’t just build systems, I understand the business logic behind financial data.
+
+🔐 Postgraduate in Cybersecurity  
+📊 Strong background in risk analysis and compliance  
+🚀 Passionate about building reliable, scalable and secure backend systems  
+
+Currently looking for opportunities as a Junior Backend Java Developer, especially in fintechs, ERP, or financial SaaS environments.
 
 </div>
 
