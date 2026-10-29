@@ -96,7 +96,7 @@ Currently looking for opportunities as a Junior Backend Java Developer, especial
   <a href="mailto:rsantos.andrade@outlook.com?subject=Convite%20para%20entrevista&body=Olá,%20Rafael,%20gostei%20do%20seu%20perfil,%20podemos%20marcar%20uma%20conversa?">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> 
 </a>
-  <a href="https://www.linkedin.com/in/devrafasantos/">
+  <a href="https://www.linkedin.com/in/rafaelsantosbackend/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
   
